@@ -86,7 +86,25 @@ const players = [
         tagline: 'The skilled diplomat',
         image: 'dandi.png',
         description: 'Dandi excels in diplomacy, often resolving conflicts before they escalate.'
-    }
+    },
+    {
+        name: 'Sam',
+        tagline: 'The joyful quirkster',
+        image: 'dandi.png',
+        description: 'A burst of sunshine who finds humor in the ordinary and transforms dull moments into laughter.'
+    },
+    {
+        name: 'Tifty',
+        tagline: 'The stoic guardian',
+        image: 'dandi.png',
+        description: 'A pillar of strength and calm, who navigates life\'s challenges with unwavering composure and wisdom'
+    },
+    {
+        name: 'Brock',
+        tagline: 'The creative dreamer',
+        image: 'dandi.png',
+        description: 'A visionary soul who sees beauty in the mundane and transforms imagination into reality.'
+    },
 ];
 
 exports.players = players;
